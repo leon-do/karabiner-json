@@ -1,7 +1,9 @@
-right cmd + h = left arrow 
+tap caps_lock = esc
 
-right cmd + j = down arrow 
+caps_lock + h = left
 
-right cmd + k = up arrow
+caps_lock + j = down
 
-right cmd + l = left arrow
+caps_lock + k = up
+
+caps_lcok + l = right
